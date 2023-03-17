@@ -1,0 +1,1 @@
+9999999999{"name": "google-search-results", "version": "2.4.2", "summary": "Scrape and search localized results from Google, Bing, Baidu, Yahoo, Yandex, Ebay, Homedepot, youtube at scale using SerpApi.com", "platform": null, "requires_dist": ["requests"], "requires_python": ">=3.5", "files": [], "_cache_version": "1.0.0"}
