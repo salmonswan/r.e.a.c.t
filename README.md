@@ -10,3 +10,5 @@ How does our service work? When an emergency situation occurs, such as a flood, 
 REACT has several advantages over traditional emergency alert and response systems. Firstly, it does not depend on the internet, which means it can function even when there are power outages or problems with mobile networks. Secondly, REACT service is interactive and adaptable to the individual needs of each user. Thirdly, it uses reliable and verified sources of information provided by the government or other authorized organizations. And finally REACT is fast and efficient in sending and receiving large-scale messages or calls.
 
 Our goal is to contribute to creating a safer and more resilient world in the face of emergency situations through innovative and intelligent use of technology. We believe that our service can save lives and reduce suffering caused by disasters. If you want to know more about our service or how to register for it, contact us. We are Maverick AI.
+
+Follow this link to try [react](https://replit.com/@Incarceron/REACT-grounded-QnA?v=1)
