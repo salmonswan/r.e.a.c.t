@@ -13,7 +13,7 @@ def index():
 
 @app.route("/get", methods=["GET", "POST"])
 def chatbot_response():
-  msg = request.form["msg"]
+  msg = request.args.get('msg')
   response = MaverickQA(msg)
 
   return response
